@@ -1,1 +1,1 @@
-# Diabetes-Prediction-Using-Supervised-Learning
+# Diabetes Prediction Using Supervised Learning
